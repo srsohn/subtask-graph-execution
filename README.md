@@ -22,8 +22,8 @@ This repository is a python implementation of Playground and Mining domain in [N
 # Installation
 You can perform a minimal installation of SGE with:
 ```
-git clone https://github.com/srsohn/SubtaskGraphExecution.git
-cd SubtaskGraphExecution
+git clone https://github.com/srsohn/subtask-graph-maze.git
+cd subtask-graph-maze
 pip install .
 ```
 If you want interactive demo with visualization:
